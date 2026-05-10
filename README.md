@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/janujanu2005/Leet_Challenges/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/janujanu2005/Leet_Challenges/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/janujanu2005/Leet_Challenges/tree/master/0014-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/janujanu2005/Leet_Challenges/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/janujanu2005/Leet_Challenges/tree/master/0014-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/janujanu2005/Leet_Challenges/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/janujanu2005/Leet_Challenges/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
