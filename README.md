@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/janujanu2005/Leet_Challenges/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/janujanu2005/Leet_Challenges/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/janujanu2005/Leet_Challenges/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/janujanu2005/Leet_Challenges/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/janujanu2005/Leet_Challenges/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/janujanu2005/Leet_Challenges/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/janujanu2005/Leet_Challenges/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
